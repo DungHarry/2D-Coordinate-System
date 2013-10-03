@@ -12,8 +12,8 @@ struct point {
 
 After that, some task will be executed:
 
-- Convert it into coordinates system coresponding
-- Conpute max and min of x and y coordinate
+- Convert it into coordinates system corresponding
+- Compute maximum and minimum of x and y coordinate
 - Paint all points to standard output
 
 
